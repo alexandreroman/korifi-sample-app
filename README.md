@@ -1,2 +1,4 @@
-# korifi-sample-app
-A sample application used in the Korifi tutorial
+# Sample app
+
+This is a sample application written in Go used for training purposes.
+
