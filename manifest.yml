@@ -2,6 +2,6 @@
 applications:
   - name: sample-app
     instances: 1
-    memory: 32M
+    memory: 64M
     disk_quota: 64M
     path: ./src
